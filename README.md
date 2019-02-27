@@ -1,3 +1,5 @@
+# testodbview
+
 This example shows how to define and use views in ODB. It includes views
 that show how to load a subset of data members from objects or columns
 from tables, perform aggregate queries, and join multiple objects and
@@ -75,4 +77,4 @@ Once the database schema is ready, we can run the example (using MySQL as
 the database):
 
 ./driver --user odb_test --database odb_test
-# testodbview
+
